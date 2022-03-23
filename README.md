@@ -11,7 +11,7 @@ Checks the height of the miner, and the helium (API) one, to determine how in sy
 
 ![image](https://user-images.githubusercontent.com/7887972/159770758-ec471615-9e61-4678-b80d-49b3d120a233.png)
 
-##quick-check.sh
+## quick-check.sh
 Creates a quick summary of the miner
 
 ![image](https://user-images.githubusercontent.com/7887972/159770907-822da51b-7aba-4128-8030-aaa5407df243.png)
