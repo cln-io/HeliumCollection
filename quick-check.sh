@@ -16,7 +16,6 @@ source ./get-height.sh
 
 echo "======MINER INFO SUMMARY===="
 docker exec $DOCKER_NAME miner info summary
-
 echo "========PEER BOOKS======"
 docker exec $DOCKER_NAME miner peer book -s
 
